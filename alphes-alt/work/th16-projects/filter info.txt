@@ -1,0 +1,9 @@
+Character select shadow:
+Shadow offset: 10x10y
+Gaussian blur size: 12
+Shadow alpha: 168 (65.6%)
+
+Character select season text:
+Font: Tangiers
+Size: 200 to 212
+Rotation: -12.38

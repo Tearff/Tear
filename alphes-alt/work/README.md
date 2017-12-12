@@ -1,0 +1,3 @@
+I kept the recreations of various graphical effects and backgrounds as GIMP project files. They should be easy to modify for any purpose as I tried to use non-destructive features such as blending modes and layer masks as much as possible, so feel free to use them for other modding projects. They most likely require GIMP 2.9.6, which at the time of writing is an unstable development release; the Windows version I used can be downloaded [here](https://www.gimp.org/downloads/devel/).
+
+The original, unpacked kaoru imagesets are also archived here, for easy viewing and redundancy. alphes-alt was made purely with the included .psd files; they load perfectly fine with the GIMP version linked above.
